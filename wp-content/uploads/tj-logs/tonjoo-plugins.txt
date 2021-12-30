@@ -1,0 +1,7 @@
+[2021-12-25 20:10:03] Activation wooongkir-premium success
+[2021-12-27 11:36:25] Check bulk status for domain https://store.nowmeinternasional.com failed, with error: cURL error 28: Resolving timed out after 5000 milliseconds
+[2021-12-27 11:36:25] Failed to check license wooongkir-premium. Attempt 1
+[2021-12-27 11:36:40] Error when trying fetch updater data wooongkir-premium, with error: cURL error 28: Resolving timed out after 5000 milliseconds
+[2021-12-29 05:33:20] Check bulk status for domain https://store.nowmeinternasional.com failed, with error: cURL error 28: Resolving timed out after 5000 milliseconds
+[2021-12-29 05:33:20] Failed to check license wooongkir-premium. Attempt 2
+[2021-12-29 05:33:25] Check status wooongkir-premium for domain https://store.nowmeinternasional.com failed, with error: cURL error 28: Resolving timed out after 5000 milliseconds
